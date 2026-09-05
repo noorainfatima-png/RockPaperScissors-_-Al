@@ -48,7 +48,8 @@ rock,paper,scissors,paper
 paper,scissors,paper,rock
 scissors,paper,rock,scissors
 rock,scissors,rock,paper
-paper,rock,paper,scissorsrock,rock,paper,scissors
+paper,rock,paper,scissors
+rock,rock,paper,scissors
 rock,paper,scissors,scissors
 paper,scissors,scissors,paper
 scissors,scissors,paper,rock
