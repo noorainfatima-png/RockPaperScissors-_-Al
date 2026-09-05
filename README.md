@@ -43,9 +43,10 @@ pip install -r requirements.txt
 
 
 2. **Train the AI:**
-
+```bash
 python train_model.py
 
+```
 
 
 
